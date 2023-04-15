@@ -1,14 +1,12 @@
- <h1>Formulário HTML/CSS/JavaScript</h1>
-Este é um repositório contendo um formulário construído utilizando HTML, CSS e JavaScript. O formulário é hospedado na plataforma Vercel e pode ser acessado através do seguinte link: https://formulario-js-lilac.vercel.app/.
+<h1>HTML/CSS/JavaScript Form</h1>
+This is a repository containing a form built using HTML, CSS, and JavaScript. The form is hosted on the Vercel platform and can be accessed through the following link: https://formulario-js-lilac.vercel.app/.
 
-## Tecnologias utilizadas
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
+## Features
+The form has fields for name, email, phone, and message. Field validation is performed through JavaScript, ensuring that the data provided by the user is correct before being submitted. After validation, the data is sent to a preconfigured email address.
 
-## Funcionalidades
-O formulário possui campos para nome, e-mail, telefone e mensagem. A validação dos campos é realizada através de JavaScript, garantindo que os dados fornecidos pelo usuário estejam corretos antes de serem enviados. Após a validação, os dados são enviados para um endereço de e-mail pré-configurado.
-
-## Contribuição
-Contribuições são sempre bem-vindas! Se você encontrar algum bug ou tiver alguma ideia para melhorar o projeto, sinta-se à vontade para criar uma issue ou um pull request.
-
+## Contributions
+Contributions are always welcome! If you find a bug or have an idea to improve the project, feel free to create an issue or pull request.
